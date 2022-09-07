@@ -1,4 +1,4 @@
-This page displays vizualisations of test transient source reconstructions of our paper "Deep Learning for Interferometric Radio Transient Reconstruction". Each section in the following vizuaizes for a specific transient sources and a specific injected noise level σ<sub>ε</sub>: (from left to right) Input, GT, CLEAN reconstruction, 2D Net reconstruction, 2D1D Net reconstruction and Deflation Net reconstruction.
+This page displays vizualisations of test transient source reconstructions. Each section in the following vizuaizes for a specific transient sources and a specific injected noise level σ<sub>ε</sub>: (from left to right) Input, GT, CLEAN reconstruction, 2D Net reconstruction, 2D1D Net reconstruction and Deflation Net reconstruction.
 
 ##### Source 1
 
